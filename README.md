@@ -11,4 +11,4 @@ GAME RULES:
 ADDITIONS:
 
 1. A player looses their ENTIRE score when they rolls two 6 in a row. After that, it's the next player's turn.
-2. Added another dice to the game, so that there are two dices now. The player looses thier current score when one of them is a 1.
+2. Added another die to the game, so that there are two dice now. The player looses thier current score when one of them is a 1.
