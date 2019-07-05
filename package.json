@@ -1,0 +1,11 @@
+{
+  "name": "thepiggame-master",
+  "version": "1.0.0",
+  "description": "GAME RULES:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
